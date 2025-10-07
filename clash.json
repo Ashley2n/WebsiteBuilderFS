@@ -1,0 +1,429 @@
+{
+  "cards": [
+    {
+      "name": "Knight",
+      "rarity": "Common",
+      "type": "Troop",
+      "elixir": 3,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/knight.png",
+      "stats": {
+        "damage": 159,
+        "dps": 132,
+        "hitpoints": 1606,
+        "hit_speed": "1.2s",
+        "targets": "Ground",
+        "speed": "Medium",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Archers",
+      "rarity": "Common",
+      "type": "Troop",
+      "elixir": 3,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/archers.png",
+      "stats": {
+        "damage": 96,
+        "dps": 64,
+        "hitpoints": 214,
+        "hit_speed": "1.5s",
+        "targets": "Air & Ground",
+        "speed": "Medium",
+        "range": "5.0"
+      }
+    },
+    {
+      "name": "Giant",
+      "rarity": "Rare",
+      "type": "Troop",
+      "elixir": 5,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/giant.png",
+      "stats": {
+        "damage": 212,
+        "dps": 141,
+        "hitpoints": 3344,
+        "hit_speed": "1.5s",
+        "targets": "Buildings",
+        "speed": "Slow",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Musketeer",
+      "rarity": "Rare",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/musketeer.png",
+      "stats": {
+        "damage": 218,
+        "dps": 153,
+        "hitpoints": 598,
+        "hit_speed": "1.4s",
+        "targets": "Air & Ground",
+        "speed": "Medium",
+        "range": "6.0"
+      }
+    },
+    {
+      "name": "Baby Dragon",
+      "rarity": "Epic",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/baby-dragon.png",
+      "stats": {
+        "damage": 133,
+        "dps": 106,
+        "hitpoints": 1200,
+        "hit_speed": "1.25s",
+        "targets": "Air & Ground (Splash)",
+        "speed": "Fast",
+        "range": "3.5"
+      }
+    },
+    {
+      "name": "Mini P.E.K.K.A",
+      "rarity": "Rare",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/mini-pekka.png",
+      "stats": {
+        "damage": 598,
+        "dps": 498,
+        "hitpoints": 1056,
+        "hit_speed": "1.2s",
+        "targets": "Ground",
+        "speed": "Fast",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Prince",
+      "rarity": "Epic",
+      "type": "Troop",
+      "elixir": 5,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/prince.png",
+      "stats": {
+        "damage": 325,
+        "dps": 162,
+        "hitpoints": 1460,
+        "hit_speed": "2.0s",
+        "targets": "Ground",
+        "speed": "Medium",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Witch",
+      "rarity": "Epic",
+      "type": "Troop",
+      "elixir": 5,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/witch.png",
+      "stats": {
+        "damage": 53,
+        "dps": 33,
+        "hitpoints": 665,
+        "hit_speed": "1.6s",
+        "targets": "Air & Ground",
+        "speed": "Medium",
+        "range": "5.0"
+      }
+    },
+    {
+      "name": "Skeleton Army",
+      "rarity": "Epic",
+      "type": "Troop",
+      "elixir": 3,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/skeleton-army.png",
+      "stats": {
+        "damage": 67,
+        "dps": 67,
+        "hitpoints": 67,
+        "hit_speed": "1.0s",
+        "targets": "Ground",
+        "speed": "Fast",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Hog Rider",
+      "rarity": "Rare",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Arena 5 (Spell Valley)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/hog-rider.png",
+      "stats": {
+        "damage": 264,
+        "dps": 176,
+        "hitpoints": 1408,
+        "hit_speed": "1.5s",
+        "targets": "Buildings",
+        "speed": "Very Fast",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "rarity": "Rare",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Arena 2 (Bone Pit)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/valkyrie.png",
+      "stats": {
+        "damage": 246,
+        "dps": 164,
+        "hitpoints": 1648,
+        "hit_speed": "1.5s",
+        "targets": "Ground (Splash)",
+        "speed": "Medium",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Fireball",
+      "rarity": "Rare",
+      "type": "Spell",
+      "elixir": 4,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/fireball.png",
+      "stats": {
+        "damage": 572,
+        "dps": "-",
+        "hitpoints": "-",
+        "hit_speed": "Instant",
+        "targets": "Air & Ground (Area)",
+        "speed": "-",
+        "range": "Spell Radius 2.5"
+      }
+    },
+    {
+      "name": "Arrows",
+      "rarity": "Common",
+      "type": "Spell",
+      "elixir": 3,
+      "arena": "Training Camp",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/arrows.png",
+      "stats": {
+        "damage": 243,
+        "dps": "-",
+        "hitpoints": "-",
+        "hit_speed": "Instant",
+        "targets": "Air & Ground (Area)",
+        "speed": "-",
+        "range": "Spell Radius 4.0"
+      }
+    },
+    {
+      "name": "Zap",
+      "rarity": "Common",
+      "type": "Spell",
+      "elixir": 2,
+      "arena": "Arena 5 (Spell Valley)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/zap.png",
+      "stats": {
+        "damage": 159,
+        "dps": "-",
+        "hitpoints": "-",
+        "hit_speed": "Instant",
+        "targets": "Air & Ground",
+        "speed": "-",
+        "range": "Spell Radius 2.5"
+      }
+    },
+    {
+      "name": "Log",
+      "rarity": "Legendary",
+      "type": "Spell",
+      "elixir": 2,
+      "arena": "Arena 6 (Builder’s Workshop)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/the-log.png",
+      "stats": {
+        "damage": 240,
+        "dps": "-",
+        "hitpoints": "-",
+        "hit_speed": "Rolls",
+        "targets": "Ground",
+        "speed": "Medium Roll",
+        "range": "Spell Path 11.5"
+      }
+    },
+    {
+      "name": "Miner",
+      "rarity": "Legendary",
+      "type": "Troop",
+      "elixir": 3,
+      "arena": "Arena 4 (P.E.K.K.A’s Playhouse)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/miner.png",
+      "stats": {
+        "damage": 160,
+        "dps": 133,
+        "hitpoints": 1000,
+        "hit_speed": "1.2s",
+        "targets": "Ground",
+        "speed": "Fast",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Electro Wizard",
+      "rarity": "Legendary",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Arena 11 (Electro Valley)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/electro-wizard.png",
+      "stats": {
+        "damage": 229,
+        "dps": 190,
+        "hitpoints": 944,
+        "hit_speed": "1.2s",
+        "targets": "Air & Ground",
+        "speed": "Fast",
+        "range": "5.0"
+      }
+    },
+    {
+      "name": "Mega Minion",
+      "rarity": "Rare",
+      "type": "Troop",
+      "elixir": 3,
+      "arena": "Arena 7 (Royal Arena)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/mega-minion.png",
+      "stats": {
+        "damage": 207,
+        "dps": 172,
+        "hitpoints": 695,
+        "hit_speed": "1.2s",
+        "targets": "Air & Ground",
+        "speed": "Medium",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Inferno Dragon",
+      "rarity": "Legendary",
+      "type": "Troop",
+      "elixir": 4,
+      "arena": "Arena 6 (Builder’s Workshop)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/inferno-dragon.png",
+      "stats": {
+        "damage": "30–350 (scales)",
+        "dps": "75–875",
+        "hitpoints": 1070,
+        "hit_speed": "0.4s",
+        "targets": "Air & Ground",
+        "speed": "Medium",
+        "range": "3.5"
+      }
+    },
+    {
+      "name": "Mega Knight",
+      "rarity": "Legendary",
+      "type": "Troop",
+      "elixir": 7,
+      "arena": "Arena 10 (Hog Mountain)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/mega-knight.png",
+      "stats": {
+        "damage": 222,
+        "dps": 122,
+        "hitpoints": 3300,
+        "hit_speed": "1.8s",
+        "targets": "Ground (Splash)",
+        "speed": "Medium",
+        "range": "Melee (Jump)"
+      }
+    },
+    {
+      "name": "Royal Giant",
+      "rarity": "Common",
+      "type": "Troop",
+      "elixir": 6,
+      "arena": "Arena 7 (Royal Arena)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/royal-giant.png",
+      "stats": {
+        "damage": 254,
+        "dps": 127,
+        "hitpoints": 2412,
+        "hit_speed": "2.0s",
+        "targets": "Buildings",
+        "speed": "Slow",
+        "range": "6.5"
+      }
+    },
+    {
+      "name": "Goblin Barrel",
+      "rarity": "Epic",
+      "type": "Spell",
+      "elixir": 3,
+      "arena": "Arena 1 (Goblin Stadium)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/goblin-barrel.png",
+      "stats": {
+        "damage": "Spawns 3 Goblins",
+        "dps": "Goblin: 159",
+        "hitpoints": "Goblin: 169",
+        "hit_speed": "1.1s",
+        "targets": "Ground",
+        "speed": "Fast",
+        "range": "Melee"
+      }
+    },
+    {
+      "name": "Bandit",
+      "rarity": "Legendary",
+      "type": "Troop",
+      "elixir": 3,
+      "arena": "Arena 9 (Jungle Arena)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/bandit.png",
+      "stats": {
+        "damage": 160,
+        "dps": 146,
+        "hitpoints": 750,
+        "hit_speed": "1.1s",
+        "targets": "Ground",
+        "speed": "Fast",
+        "range": "Dash 3–6"
+      }
+    },
+    {
+      "name": "Graveyard",
+      "rarity": "Legendary",
+      "type": "Spell",
+      "elixir": 5,
+      "arena": "Arena 12 (Spooky Town)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/graveyard.png",
+      "stats": {
+        "damage": "Spawns Skeletons",
+        "dps": "-",
+        "hitpoints": "-",
+        "hit_speed": "0.5s (spawns)",
+        "targets": "Ground",
+        "speed": "-",
+        "range": "Spell Radius 4.0"
+      }
+    },
+    {
+      "name": "Ice Spirit",
+      "rarity": "Common",
+      "type": "Troop",
+      "elixir": 1,
+      "arena": "Arena 8 (Frozen Peak)",
+      "image": "https://royaleapi.github.io/cr-api-assets/cards/ice-spirit.png",
+      "stats": {
+        "damage": 91,
+        "dps": "-",
+        "hitpoints": 190,
+        "hit_speed": "Instant (suicide)",
+        "targets": "Air & Ground",
+        "speed": "Very Fast",
+        "range": "Melee"
+      }
+    }
+  ]
+}
